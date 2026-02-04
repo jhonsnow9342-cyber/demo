@@ -1,0 +1,103 @@
+.one{
+    background-color: black;
+    background-image: url(background\ image1.jpg);
+    color: white;
+
+    margin: 0px;
+    display: inline;
+}
+li,ul{
+    display: inline;
+    text-align: right;
+    background-color: black;
+    color: white;
+    
+}
+li,ul :hover{
+    color:yellow;
+    padding: .5em;
+    cursor: pointer;
+    margin-left: 60;
+}
+span{
+    display: inline;
+    margin-left:60%;
+}
+p{
+    color: white;
+}
+h3{
+    position: sticky;
+    margin-top: 100px;
+}
+button{
+    font-size: 30px;
+    margin-bottom: 200px;
+    color: red;
+    background-color: black;
+    border-color: yellow;
+    border-width: 10px;
+    border-style: solid;
+    display: inline;
+    margin: 0px;
+}
+#one{
+    display: inline-block;
+    margin: 0Px;
+    text-align: center;
+    
+
+}
+ol{
+    background-color:black;
+    color: red;
+    display: inline;
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+.bag1{
+    margin: 0px;
+    font-size: 50px;
+    scroll-behavior: smooth;
+}
+.bag2{
+    margin: 0px;
+    font-size: 50px;
+}
+#exit{
+    margin-left: 40%;
+    display:inline;
+    background-color: black;
+    font-size: 15px;
+    scrollbar-width: thin;
+
+
+}
+.search{
+    margin-right: 88px;
+    margin:0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#background-img {
+    margin: 15px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.searchbar {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    border-color: white;
+    border-width: 0px;
+    border-style: solid;
+    font-size: 15px;
+    
+
+}
+
+
